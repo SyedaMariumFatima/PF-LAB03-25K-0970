@@ -1,2 +1,2 @@
-## I study in FAST.\
+## I study in FAST.
 And i like scratch

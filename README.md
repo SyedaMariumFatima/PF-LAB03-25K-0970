@@ -1,2 +1,2 @@
-# HELLO, IT'S MARIUM HERE!!!!
-## I am currently doing CS from FAST
+##I study in FAST
+and i like scratch
